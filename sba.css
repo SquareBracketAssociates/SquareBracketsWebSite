@@ -91,7 +91,7 @@ a.button { /* pseudo-button appearance */
 
 /* CONTENT */
 #content {
-	font-size: 12pt;
+	font-size: 10pt;
 }
 #content h1,#content h2,#content h3 {
 	letter-spacing: 2px;
